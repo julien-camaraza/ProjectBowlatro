@@ -85,3 +85,5 @@ BowlatroProject/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
 BowlatroProject/Intermediate/Build/XmlConfigCache.bin
 /BowlatroProject/Saved/UnrealBuildTool
 /BowlatroProject/Saved
+/BowlatroProject/DerivedDataCache
+/BowlatroProject/Intermediate
