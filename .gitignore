@@ -72,3 +72,16 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+BowlatroProject/Intermediate/CachedAssetRegistry/CachedAssetRegistry_0.ref
+BowlatroProject/Intermediate/CachedAssetRegistry/CachedAssetRegistry_0_B4D0B457476FE73217E5C181E582C4A7.bin
+BowlatroProject/Intermediate/CachedAssetRegistryDiscovery.bin
+BowlatroProject/Intermediate/PipInstall/extra_urls.txt
+BowlatroProject/Intermediate/PipInstall/Lib/site-packages/plugin_site_package.pth
+BowlatroProject/Intermediate/PipInstall/merged_requirements.in
+BowlatroProject/Intermediate/PipInstall/pyreqs_plugins.list
+BowlatroProject/Intermediate/ReimportCache/3688439234.bin
+BowlatroProject/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+BowlatroProject/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+BowlatroProject/Intermediate/Build/XmlConfigCache.bin
+/BowlatroProject/Saved/UnrealBuildTool
+/BowlatroProject/Saved
